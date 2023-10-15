@@ -1,0 +1,16 @@
+node_modules
+slither-result.json
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+.vscode
+artifacts
+deployments
+
+# Hardhat files
+cache
+artifacts
+
